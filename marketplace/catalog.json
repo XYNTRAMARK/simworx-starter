@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "version": "2026.08.20.1",
+  "currency": "EUR",
+  "products": [
+    {
+      "id": "demo-flight-addon",
+      "title": "Example Flight Add-on",
+      "vendor": "Demo Partner",
+      "genre": "flight",
+      "type": "content",
+      "condition": "new",
+      "price": "€29.99",
+      "featured": true,
+      "demo": true,
+      "compatibility": ["Flight"],
+      "description": "Example catalogue card showing how partner aircraft, scenery and content will appear.",
+      "image_url": "",
+      "cta": "VIEW PRODUCT",
+      "url": ""
+    },
+    {
+      "id": "demo-hardware",
+      "title": "Example Controls Bundle",
+      "vendor": "Demo Partner",
+      "genre": "general",
+      "type": "hardware",
+      "condition": "new",
+      "price": "€249.00",
+      "featured": true,
+      "demo": true,
+      "compatibility": ["Flight", "Racing", "Truck"],
+      "description": "Example hardware listing for controls, panels, displays or cockpit equipment.",
+      "image_url": "",
+      "cta": "VIEW PRODUCT",
+      "url": ""
+    },
+    {
+      "id": "gameboost",
+      "title": "GameBoost",
+      "vendor": "Simstarter Pro",
+      "genre": "general",
+      "type": "software",
+      "condition": "new",
+      "price": "COMING SOON",
+      "featured": true,
+      "demo": false,
+      "compatibility": ["All genres"],
+      "description": "Performance optimisation utility designed to run automatically with a Simstarter Pro profile.",
+      "image_url": "",
+      "cta": "COMING SOON",
+      "url": ""
+    },
+    {
+      "id": "demo-free-download",
+      "title": "Example Free Download",
+      "vendor": "Simstarter Pro",
+      "genre": "general",
+      "type": "free",
+      "condition": "free",
+      "price": "FREE",
+      "featured": false,
+      "demo": true,
+      "compatibility": ["All genres"],
+      "description": "Example card for free profiles, utilities, drivers, templates and useful downloads.",
+      "image_url": "",
+      "cta": "DOWNLOAD",
+      "url": ""
+    }
+  ]
+}
