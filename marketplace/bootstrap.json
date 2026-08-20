@@ -4,7 +4,7 @@
   "catalog_url": "https://yqvgqxjckgfmihbjkvdq.supabase.co/functions/v1/simstarter-feed?section=catalogue",
   "scanner_url": "https://yqvgqxjckgfmihbjkvdq.supabase.co/functions/v1/simstarter-feed?section=scanner",
   "health_url": "https://yqvgqxjckgfmihbjkvdq.supabase.co/functions/v1/simstarter-feed?section=health",
-  "admin_portal_url": "",
+  "admin_portal_url": "https://yqvgqxjckgfmihbjkvdq.supabase.co/functions/v1/simstarter-admin",
   "used_marketplace_enabled": true,
-  "message": "Live catalogue connected to SimstarterPro Supabase."
+  "message": "Live catalogue and remote admin connected to SimstarterPro Supabase."
 }
